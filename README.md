@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Meenu Krishnan!
 
-<!--
-**Meenu-Krishnan-M/Meenu-Krishnan-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Fresher MERN Stack Developer | Open to Opportunities
 
-Here are some ideas to get you started:
+🌱 I build full-stack apps using:
+- MongoDB | Express.js | React.js | Node.js
+- REST APIs | Bootstrap | Tailwind | Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Check out my projects:
+- 🧾 Inventory Management System
+- 🎵 Spotify Clone
+- 🗳 Blockchain Voting App
+
+📬 Contact me: meenukrishnann@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/meenu-krishnan-m-3b4693276)
